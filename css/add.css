@@ -26,16 +26,23 @@ body{
    transition: 0.3s;
    
 }
-.heade {
+.heade{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.contac{
+  
     color: rgb(236, 230, 230);
+    
     
 }
 
 
-.contac {
+/* .contac {
     float: left;
     padding: 6px 10px;
-}
+} */
 .inde  {
     float: right;
     padding: 6px 10px;
