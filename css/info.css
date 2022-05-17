@@ -28,7 +28,7 @@
     height: 2px; /* Толщина линии */
     margin-left: 700px;
     margin-right: 200px;
-    margin-top: 10px;
+    margin-top: px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;flex-wrap: nowrap;align-content: space-between;align-items: baseline;
@@ -39,7 +39,11 @@
 .colo{
     text-align: center;
     margin-left: 100px;
+    color: aliceblue;
 }
+
+
+
 
 
 
