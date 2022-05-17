@@ -26,16 +26,23 @@ body{
    transition: 0.3s;
    
 }
-.heade {
+.heade{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.contac{
+  
     color: rgb(236, 230, 230);
+    
     
 }
 
 
-.contac {
+/* .contac {
     float: left;
     padding: 6px 10px;
-}
+} */
 .inde  {
     float: right;
     padding: 6px 10px;
@@ -48,6 +55,8 @@ body{
     height: 5rem;
 }
 
+
+/* Info */
 .project_container{
     display: flex;
     justify-content: center;
@@ -180,3 +189,14 @@ body{
     padding-top: 10px;
  }
 
+
+/* Поиск */
+.Search{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;align-content: space-between;flex-wrap: nowrap;
+    text-align: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(248,35,7,1) 100%);
+  
+}
