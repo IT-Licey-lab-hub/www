@@ -102,7 +102,7 @@ body{
 .ABOUT{
     width: 200px;
    margin-left: 5rem;
-  /* color: #fff;*/
+   
 }
 /*footer{
     background-color: black;
@@ -110,11 +110,16 @@ body{
 .CONTACT{
     width: 280px;
     
+    
+    
 }
 .fut{
     display: flex;
     justify-content: space-around;
+    margin-top: 1rem;
 }
+
+
 .ikn a{
   padding: 1rem;
   
@@ -125,13 +130,13 @@ body{
     max-width: 300px;
    /* padding: 80px 30px 30px;
     margin: 50px auto 30px;*/
-    background: white;
+    
     height: 200px;
  }
  .ui-form h3 {
     position: relative;
     z-index: 5;
-    margin: 0 0 60px;
+    margin: 0 0 25px;
     text-align: center;
     color: #4a90e2;
     font-size: 30px;
