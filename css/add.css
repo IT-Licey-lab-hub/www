@@ -55,6 +55,8 @@ body{
     height: 5rem;
 }
 
+
+/* Info */
 .project_container{
     display: flex;
     justify-content: center;
@@ -85,3 +87,14 @@ body{
     border-radius: 65%;
 }
 
+
+/* Поиск */
+.Search{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;align-content: space-between;flex-wrap: nowrap;
+    text-align: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(248,35,7,1) 100%);
+  
+}
