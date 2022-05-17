@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.id{
+    color: gold;
+}
+.Menu{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;flex-direction: column-reverse;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(248,35,7,1) 100%);
+}
+
+
+.Menu_it{
+    background-image: url(img/123.jpg); 
+    width: 459px;
+    padding: 71px;
+    
+}
+.Menu_menu{
+    
+    border: none; /* Убираем границу */
+    background-color: rgb(249, 237, 237); /* Цвет линии */
+    color: rgb(250, 247, 247); /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+    margin-left: 700px;
+    margin-right: 200px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;flex-wrap: nowrap;align-content: space-between;align-items: baseline;
+} 
+.di {
+    padding: 50px;
+}
+.colo{
+    text-align: center;
+    margin-left: 100px;
+}
+
+
+
+   
+
