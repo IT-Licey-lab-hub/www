@@ -1,0 +1,43 @@
+body{
+   
+    background: radial-gradient(circle, rgba(238,174,202,0.4096989137451855) 0%, rgba(244,165,173,0.020343171448266806) 100%);
+   
+ }
+ .mmenu{
+     display: flex;
+     justify-content: flex-start;
+     flex-direction: column;flex-wrap: nowrap;align-content: space-between;align-items: baseline; 
+    
+ }
+ .col-sm-2{
+     border: none; /* Убираем границу */
+     background-color: rgb(8, 0, 0); /* Цвет линии */
+     color: rgb(27, 26, 26); /* Цвет линии для IE6-7 */
+     height: 2px; /* Толщина линии */
+     padding: 2px;
+     margin-left: 700px;
+     margin-bottom: 580px;
+ }
+ .di_m{
+     border: none; /* Убираем границу */
+     background-color: rgb(8, 0, 0); /* Цвет линии */
+     color: rgb(27, 26, 26); /* Цвет линии для IE6-7 */
+     height: 2px; /* Толщина линии */
+     padding: 2px;
+ 
+ }
+ .txt{
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ .col-sm-1{
+     border: none; /* Убираем границу */
+     background-color: rgb(8, 0, 0); /* Цвет линии */
+     color: rgb(27, 26, 26); /* Цвет линии для IE6-7 */
+     height: 2px; /* Толщина линии */
+     margin-left: 700px;
+     padding: 2px;
+      
+ 
+ }
