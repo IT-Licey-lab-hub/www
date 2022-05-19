@@ -91,6 +91,7 @@ body{
     background-color: gold;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .Call{
     border-radius: 10px;
@@ -329,4 +330,12 @@ body{
     line-height: 2.5;
     border-radius: 20px;
     color: #4c4b6c;;
+}
+/**********************ценик бургер*/
+.price{
+    position: absolute;
+    top: 17rem;
+    left: 13rem;
+    color: rgb(230, 20, 20);
+    font-size: 2.4rem;
 }
