@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logo{
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.8rem;
+    margin-left: 160px;
+    margin-top: -260px;
+}
+
+.siti{
+    width: 350px;
+    height: 350px;
+    margin-top: 80px;
+    margin-left: 65px;
+}
+.add{
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.menu{
+    margin-bottom: 228px;
+    margin-left: 40px;
+    border-radius: 55px;
+    width: 100px;
+    height: 100px;
+}
+
+.logo2{
+    margin-top: -58px;
+    margin-left: 93px;
+}
+
+.logo3{
+    text-align: center;
+    color: aliceblue;
+    margin-left: 184px;
+    margin-top: -37px;
+}
+
+
+
+
+.cnopka{
+    background-color: gold;
+    width: 150px;
+    height: 39px;
+    margin-left: 547px;
+    margin-top: 40px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(254, 254, 254);
+}
+
+/**/
+.logo4{
+    background-color: rgb(240, 238, 227);
+    width: 150px;
+    height: 55px;
+    margin-left: 900px;
+    margin-top: -101px;
+  
+}
+
+.ret2{
+    margin-top: 20px;
+    margin-left: -42px;
+}
+
+.ret{
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+/**/
+
+
+.clik{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-left: 0px;
+    text-decoration: none;
+    color: rgb(0, 6, 11);
+}
+
+.logo5{
+    background-color: rgb(251, 17, 165);
+    width: 150px;
+    height: 39px;
+    margin-left: 900px;
+    margin-top: 11px;
+}
+
+.text3{
+    display: flex;
+    justify-content: center;
+    margin-top: -25px;
+    text-decoration: none;
+    font-size: 0.6rem;
+    color: aliceblue;
+    margin-left: -23px;
+}
+
+.loc{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    line-height: 2.5;
+    border-radius: 20px;
+    color: #4c4b6c;;
+}
