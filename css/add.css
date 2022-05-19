@@ -91,6 +91,7 @@ body{
     background-color: gold;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .Call{
     border-radius: 10px;
@@ -208,11 +209,23 @@ body{
 }
 
 
-/* logo */
+
+
 
 .logo{
     text-align: center;
     color: aliceblue;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logo{
+    text-align: center;
+    color: rgb(7, 8, 8);
     font-size: 1.8rem;
     margin-left: 160px;
     margin-top: -260px;
@@ -244,8 +257,11 @@ body{
 
 .logo3{
     text-align: center;
+
     color: aliceblue;
     margin-left: 184px;
+    color: rgb(29, 31, 32);
+    margin-left: 201px;
     margin-top: -37px;
 }
 
@@ -256,7 +272,9 @@ body{
     background-color: gold;
     width: 150px;
     height: 39px;
+
     margin-left: 547px;
+    margin-left: 597px;
     margin-top: 40px;
 }
 .text{
@@ -309,7 +327,10 @@ body{
 .text3{
     display: flex;
     justify-content: center;
+
     margin-top: -25px;
+
+    margin-top: -30px;
     text-decoration: none;
     font-size: 0.6rem;
     color: aliceblue;
@@ -379,5 +400,12 @@ body{
 
 
 
-   
 
+/**********************ценик бургер*/
+.price{
+    position: absolute;
+    top: 17rem;
+    left: 13rem;
+    color: rgb(230, 20, 20);
+    font-size: 2.4rem;
+}
