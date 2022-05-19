@@ -217,7 +217,7 @@ body{
 
 .logo{
     text-align: center;
-    color: aliceblue;
+    color: rgb(7, 8, 8);
     font-size: 1.8rem;
     margin-left: 160px;
     margin-top: -260px;
@@ -249,8 +249,8 @@ body{
 
 .logo3{
     text-align: center;
-    color: aliceblue;
-    margin-left: 184px;
+    color: rgb(29, 31, 32);
+    margin-left: 201px;
     margin-top: -37px;
 }
 
