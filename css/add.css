@@ -261,7 +261,7 @@ body{
     background-color: gold;
     width: 150px;
     height: 39px;
-    margin-left: 547px;
+    margin-left: 604px;
     margin-top: 40px;
 }
 .text{
@@ -314,7 +314,7 @@ body{
 .text3{
     display: flex;
     justify-content: center;
-    margin-top: -25px;
+    margin-top: -30px;
     text-decoration: none;
     font-size: 0.6rem;
     color: aliceblue;
