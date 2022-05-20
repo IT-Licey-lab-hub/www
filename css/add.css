@@ -205,13 +205,20 @@ body{
     justify-content: space-evenly;
     flex-direction: column;align-content: space-between;flex-wrap: nowrap;
     text-align: center;
+  
     background: rgb(238,174,202);
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(248,35,7,1) 100%);
   
 }
 
 
-/*logo*/
+
+
+
+.logo{
+    text-align: center;
+    color: aliceblue;
+}
 body{
     margin: 0;
     padding: 0;
@@ -223,8 +230,8 @@ body{
     text-align: center;
     color: rgb(7, 8, 8);
     font-size: 1.8rem;
-    margin-left: 160px;
-    margin-top: -260px;
+    margin-left: 1rem;
+    margin-top: -63vh;
 }
 
 .siti{
@@ -247,15 +254,18 @@ body{
 }
 
 .logo2{
-    margin-top: -58px;
-    margin-left: 93px;
+    margin-top: -13px;
+    margin-left: 105px;
 }
 
 .logo3{
     text-align: center;
+
+    color: aliceblue;
+    margin-left: 184px;
     color: rgb(29, 31, 32);
-    margin-left: 201px;
-    margin-top: -37px;
+    margin-left: 1rem;
+    margin-top: 2rem;
 }
 
 
@@ -265,6 +275,8 @@ body{
     background-color: gold;
     width: 150px;
     height: 39px;
+
+    margin-left: 547px;
     margin-left: 597px;
     margin-top: 40px;
 }
@@ -318,6 +330,9 @@ body{
 .text3{
     display: flex;
     justify-content: center;
+
+    margin-top: -25px;
+
     margin-top: -30px;
     text-decoration: none;
     font-size: 0.6rem;
@@ -334,6 +349,58 @@ body{
     border-radius: 20px;
     color: #4c4b6c;;
 }
+
+
+/* menu */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.id{
+    color: gold;
+}
+.Menu{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;flex-direction: column-reverse;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(248,35,7,1) 100%);
+}
+
+
+
+    
+
+.Menu_menu{
+    
+    border: none; /* Убираем границу */
+  
+    color: rgb(250, 247, 247); /* Цвет линии для IE6-7 */
+    height: 5px; /* Толщина линии */
+    padding: 2px;
+    margin-left: 700px;
+    margin-right: 200px;
+   
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;flex-wrap: nowrap;align-content: space-between;align-items: baseline;
+} 
+.di {
+    padding: 50px;
+}
+.colo{
+    text-align: center;
+    
+    color: aliceblue;
+}
+
+
+
+
+
+
+
 /**********************ценик бургер*/
 .price{
     position: absolute;
