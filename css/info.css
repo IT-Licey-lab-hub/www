@@ -3,7 +3,19 @@
     margin: 0;
 }
 .id{
+    position: absolute;
+    top: 10rem;
+    left: 4rem;
+}
+.gol{
     color: gold;
+}
+.lor{
+    position: absolute;
+    top: 19rem;
+    width: 200px;
+    left: 4rem;
+    color: #fff;
 }
 .Menu{
     display: flex;
@@ -15,32 +27,34 @@
 
 
 .Menu_it{
-    background-image: url(../img/123.jpg); 
-    width: 459px;
-    padding: 71px;
+    
+    width: 530px;
+   height: 335px;
+   margin-left: 2rem;
     
 }
 .Menu_menu{
     
     border: none; /* Убираем границу */
-    background-color: rgb(249, 237, 237); /* Цвет линии */
+   /* background-color: rgb(249, 237, 237); /* Цвет линии */
     color: rgb(250, 247, 247); /* Цвет линии для IE6-7 */
     height: 2px; /* Толщина линии */
     margin-left: 700px;
     margin-right: 200px;
-    margin-top: px;
+    margin-top: 13px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;flex-wrap: nowrap;align-content: space-between;align-items: baseline;
 } 
 .di {
-    padding: 50px;
+    padding: 70px;
 }
 .colo{
     text-align: center;
-    margin-left: 100px;
+    margin-left: 30rem;
     color: aliceblue;
 }
+
 
 
 

@@ -114,6 +114,9 @@ body{
     
     
 }
+.CONTACT p{
+    padding: 10px;
+}
 .fut{
     display: flex;
     justify-content: space-around;
